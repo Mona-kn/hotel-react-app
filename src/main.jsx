@@ -14,8 +14,8 @@ if (!PUBLISHABLE_KEY) {
 
 createRoot(document.getElementById('root')).render(
   <ClerkProvider publishableKey={PUBLISHABLE_KEY}>
-    <BrowserRouter basename="/hotel-react-app">
-      <App />
-    </BrowserRouter>
+   <HashRouter>
+     <App /> 
+   </HashRouter>
   </ClerkProvider>,
 )
