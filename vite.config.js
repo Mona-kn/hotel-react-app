@@ -8,5 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base:'/hotel-react-app/',
+  base: '/hotel-react-app/',
+  build: 
+   { outDir: 'docs' }
 })
