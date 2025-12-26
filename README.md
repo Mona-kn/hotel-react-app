@@ -1,4 +1,4 @@
-# Hotel Booking Website 🏨
+# Hotel Booking Website 
 
 ##  Live Demo
  [View the live site](https://mona-kn.github.io/hotel-react-app/)
