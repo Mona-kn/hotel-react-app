@@ -31,5 +31,3 @@ This project was designed with a focus on:
 - **TailwindCSS**  
 - **React Router DOM**  
 - **Clerk Authentication**  
-   cd hotel-react-app
-
