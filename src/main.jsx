@@ -2,7 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
-import { HashRouter } from 'react-router-dom'   // 👈 اینجا تغییر کن
+import { HashRouter } from 'react-router-dom' 
 import { ClerkProvider } from '@clerk/clerk-react'
 
 // Import your Publishable Key
